@@ -1,6 +1,6 @@
 Replacement mounting bracket for bike light.
 
-[image](pics/broken_orig.jpg)
-[image](pics/printing.jpg)
-[image](pics/comparison.jpg)
-[image](pics/finished.jpg)
+![broken](pics/broken_orig.jpg)
+![printing](pics/printing.jpg)
+![comparison](pics/comparison.jpg)
+![finished](pics/finished.jpg)
